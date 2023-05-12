@@ -43,14 +43,20 @@ text-align: center;
 }
 .imgContainer{
     margin-top: 30px;
+    margin-left: 375px;
+   
+    
     display: block;
 }
 .img{
     margin-top: 30px;
-    margin-left: 100px;
+margin-left: 400px;
+   
+    
     display: block;
    
 }
+
 .btn a{
     text-decoration: none;
     color: rgb(0, 0, 0);
